@@ -1,0 +1,13 @@
+Versionamento Semântico
+v1.0.0
+v2.0.0, v1.1.0, 1.0.1
+
+
+MAJOR.MINOR.PATCH
+
+Patch: Somente correção, refatoração, etc.
+1.0.1, 1.0.2, 1.0.3
+Minor: tem uma funcionalidade nova e não tem breaking change
+1.1.0, 1.2.0, 1.3.0
+Major: Tem breaking changes (o código cliente pode "quebrar")
+2.0.0, 3.0.0
